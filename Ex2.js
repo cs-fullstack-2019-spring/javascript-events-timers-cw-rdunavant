@@ -1,0 +1,5 @@
+function disableTextarea
+function messageHidden
+function buttonClickFunction
+display hidden message
+disable textarea
